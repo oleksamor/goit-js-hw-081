@@ -2,10 +2,10 @@
     display: flex;
     display: wrap;
     gap: 24px;
-    
+
 }
 
 .gallery-image {
  width: 300px;
- height: 200pxc;
+ height: 200px;
 }   
